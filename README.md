@@ -2,7 +2,7 @@
 Proyecto de casas de alquiler IAW ASIR.
 Es un proyecto creado en PHP.
 Con bases de datos mysql.
-<hr>
+---
 ## Curso 2019-2020
 ### Implantación de aplicaciones web
 *Profesor: * Manuel de Castro Vázquez.
